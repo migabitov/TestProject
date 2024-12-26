@@ -1,10 +1,9 @@
-package src.main.java.medium_tasks;
+package medium_tasks;
 
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class ArrayOfMultiples {
